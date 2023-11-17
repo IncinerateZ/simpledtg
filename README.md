@@ -1,6 +1,6 @@
 # SimpleDTG
 
-Simple DTG Emulation server over socket / websocket written in Go.
+Simple DTG Emulation server over socket / websocket written in Go, written for another university project.
 
 ## Requirements
 
